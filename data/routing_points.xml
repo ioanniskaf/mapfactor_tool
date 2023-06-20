@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<routing_points>
+	<set>
+		<name>myRoute_Route01</name>
+		<departure><name>START</name><lat>127321585</lat><lon>88172929</lon></departure>
+		<waypoint><name>W1</name><lat>127322545</lat><lon>88185932</lon></waypoint>
+		<waypoint><name>W2</name><lat>127320187</lat><lon>88196810</lon></waypoint>
+		<waypoint><name>W3</name><lat>127318089</lat><lon>88202523</lon></waypoint>
+		<waypoint><name>W4</name><lat>127317672</lat><lon>88243040</lon></waypoint>
+		<waypoint><name>W5</name><lat>127315646</lat><lon>88286172</lon></waypoint>
+		<waypoint><name>W6</name><lat>127264166</lat><lon>88297516</lon></waypoint>
+		<waypoint><name>W7</name><lat>127207472</lat><lon>88295064</lon></waypoint>
+		<destination><name>END</name><lat>126999047</lat><lon>88423982</lon></destination>
+	</set>
+</routing_points>
