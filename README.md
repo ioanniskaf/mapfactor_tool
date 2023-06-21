@@ -11,7 +11,7 @@ Adb and download link for platform-tools can be found below:<br />
 
 After download the "platform-tools" folder needs to be place in the root directory
 
-<img src="bin/images/platform-tools.png"  width="20%" height="20%"> 
+<img src="images/platform-tools.png"  width="20%" height="20%"> 
 
 Run the following to install requirements
 ```bash
@@ -26,7 +26,7 @@ After initial Mapfactor Navigator installation on the Android device few steps n
 	On this backup that is created now, the tool will replace routing_points.xml and favourites.xml files each time you use it.
 3. After creating your first routes and favourite points you can push them to the device. To use them in the app you need to **Restore** the initial backup and select only **Favourite places** and **Routing points and my routes**. Keep in mind that if more backups are made, the tool will access the first created only.
 
-<img src="bin/images/settings.png"  width="20%" height="20%">
+<img src="images/settings.png"  width="20%" height="20%">
 
 
 ## Usage:
@@ -43,4 +43,4 @@ After initial Mapfactor Navigator installation on the Android device few steps n
 10. **PUSH FAVOURITES FILE** to push favourites.xml to device
 11. Exit or select new file
 
-<img src="bin/images/app.png"  width="25%" height="25%">  
+<img src="images/app.png"  width="25%" height="25%">  
